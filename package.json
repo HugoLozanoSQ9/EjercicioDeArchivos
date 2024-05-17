@@ -1,0 +1,23 @@
+{
+  "name": "ejerciciodearchivos",
+  "version": "1.0.0",
+  "description": "\"Ejercicio de listas de nombres\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoLozanoSQ9/EjercicioDeArchivos.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "HugoLozanoSQ9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoLozanoSQ9/EjercicioDeArchivos/issues"
+  },
+  "homepage": "https://github.com/HugoLozanoSQ9/EjercicioDeArchivos#readme"
+}
